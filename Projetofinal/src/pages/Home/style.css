@@ -1,0 +1,10 @@
+
+
+.pagina-home {
+    height: calc(100vh - 60px);
+    background: #fff;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
